@@ -34,7 +34,7 @@
   </p>  
   <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate" title="Go to Source">
-      <img align="right" width=390 src=https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate />
+      <img align="center" width=390 src=https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate />
     </a>
   </p> 
 
