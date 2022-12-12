@@ -4,8 +4,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Christian+Dave+Bate;&center=true&size=30">
   </a>
-
-<h3 align="center">My Techstack</h3>
 <p align="center"> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
     </a> 
