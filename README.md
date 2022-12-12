@@ -29,6 +29,6 @@
     </a> 
 </p>
 </h1>
-  <p>
+  <p align="center">
       Hi, I'm Christian Dave Momar Bate, Computer Engineer & Web Developer from Philippines
-    </p>
+  </p>
