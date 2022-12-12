@@ -31,16 +31,10 @@
 </h1>
   <p align="center">
      A computer engineer & web developer from Philippines
-  </p>
-  
-  
-  <p align=center>
+  </p>  
   <div align=center>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianDaveMomarBate" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianDaveMomarBate" />
-    </a>
     <a href="https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate" title="Go to Source">
       <img align="right" width=390 src=https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate />
     </a>
   </div>
-</p>
+
