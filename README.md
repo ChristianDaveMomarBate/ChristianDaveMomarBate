@@ -28,7 +28,7 @@
     <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
 </p>
+</h1>
   <p>
       Hi, I'm Christian Dave Momar Bate, Computer Engineer & Web Developer from Philippines
     </p>
-</h1>
