@@ -33,10 +33,8 @@
      A computer engineer & web developer from Philippines
   </p>  
   <p align="center">
-  <div align=center>
     <a href="https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate" title="Go to Source">
       <img align="right" width=390 src=https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate />
     </a>
-  </div>
   </p> 
 
