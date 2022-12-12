@@ -4,7 +4,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Christian+Dave+Bate;&center=true&size=30">
   </a>
+    <a href="https://git.io/typing-svg">
+   A recent computer engineering graduate and a web developer based in the Philippines.
+  </a>
 </h1>
+
 <h3 align="center">A recent computer engineering graduate and a web developer based in the Philippines.</h3>
 <h4 align="center"><a href='https://abby2727.github.io/my-portfolio/' target="blank">Portfolio</a> | <a href='https://abdulpangandaman.me/doc/resume' target="blank">Resume</a></h4> 
 <br>
