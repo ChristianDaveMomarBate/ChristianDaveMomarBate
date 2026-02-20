@@ -1,5 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<!-- Visitor Badge (Top Right) -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChristianDaveMomarBate.ChristianDaveMomarBate" />
+</p>
 
+<br/>
+
+<!-- Tech Stack Icons (Centered Below) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,js,jquery,bootstrap,html,css,mysql,git,java,raspberrypi&perline=11" />
 </p>
