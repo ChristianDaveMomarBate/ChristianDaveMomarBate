@@ -1,40 +1,39 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Christian+Dave+Bate;&center=true&size=30">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=750&height=80&lines=CHRISTIAN+DAVE+BATE;FULL+STACK+WEB+DEVELOPER;LARAVEL+%7C+JAVASCRIPT+ENGINEER;SYSTEM+AUTOMATION+SPECIALIST" 
+      alt="Typing SVG Title"
+    />
   </a>
-<p align="center"> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,jquery,bootstrap,html,css,mysql,git,java,raspberrypi&perline=11" />
+</p>
+
 </h1>
   <p align="center">
      A computer engineer & web developer from Philippines
   </p>  
-  <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate" title="Go to Source">
-      <img align="center" width=390 src=https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate />
-    </a>
-  </p> 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChristianDaveMomarBate&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianDaveMomarBate&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianDaveMomarBate&theme=tokyonight"/>
+</p>
+<p align="center">
+  <a href="mailto:christian.dave.bate@gmail.com">
+    <img src="https://img.shields.io/badge/Email-christian.dave.bate%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/christiandavebate/">
+    <img src="https://img.shields.io/badge/LinkedIn-Christian%20Dave%20Bate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/engr.chanz">
+    <img src="https://img.shields.io/badge/Facebook-engr.chanz-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</p>
 
