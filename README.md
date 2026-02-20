@@ -1,14 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<h1 align="center">
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=750&height=80&lines=CHRISTIAN+DAVE+BATE;FULL+STACK+WEB+DEVELOPER;LARAVEL+%7C+JAVASCRIPT+ENGINEER;SYSTEM+AUTOMATION+SPECIALIST" 
-      alt="Typing SVG Title"
-    />
-  </a>
-</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,js,jquery,bootstrap,html,css,mysql,git,java,raspberrypi&perline=11" />
 </p>
